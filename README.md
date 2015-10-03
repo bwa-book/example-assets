@@ -12,3 +12,7 @@ Downloadable assets to help with the example projects in Build watchOS Apps by M
 
 * [Modular Complication Assets (modular.zip)](https://github.com/bwa-book/example-assets/blob/master/Chapter%207/modular.zip?raw=true) for use in the *Including Image Assets* section.
 
+
+## Chapter 16
+
+* [Image Set Assets (image-set.zip)](https://github.com/bwa-book/example-assets/blob/master/Chapter%2016/image-set.zip?raw=true) for use in the *Image Assets* section.
